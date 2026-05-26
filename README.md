@@ -285,5 +285,3 @@ npm run dev
 ## Conclusion
 
 This setup provides the fastest path from a concept to a live, interactive 3D hero section with a polished UI overlay. By leveraging Spline for the complex 3D art and React Three Fiber for web integration, you can focus on bringing your vision to life without getting bogged down in low-level graphics programming.
-
-Enjoy building your vibrant, playful 3D website!
